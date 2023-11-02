@@ -1,0 +1,3 @@
+name=renu
+age=23
+salary=0
